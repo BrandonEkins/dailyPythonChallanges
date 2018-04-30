@@ -10,3 +10,5 @@ Daily programming challanges done in python from reddits [daily programmer](http
 5. [334IntegerComplexity](/334IntegerComplexity/IntegerComplexity.md)
 6. [355AlphabetCypher](/355AlphabetCypher/AlphabetCypher.md)
 7. [355PancakeFlip](/355Pancakeflip/Pancakeflip.md)
+8. [357KalakoskiSequences](/357KalakoskiSequences/KalakoskiSequences.md)
+9. [358TheSevenSegments](/358TheSevenSegments/TheSevenSegments.md)
