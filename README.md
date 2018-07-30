@@ -13,3 +13,4 @@ Daily programming challanges done in python from reddits [daily programmer](http
 8. [356GoldbachsWeakConjecture](/356GoldbachsWeakConjecture/GoldbachsWeakConjecture.md)
 9. [357KalakoskiSequences](/357KalakoskiSequences/KalakoskiSequences.md)
 10. [358TheSevenSegments](/358TheSevenSegments/TheSevenSegments.md)
+11. [365UpArrowNotation](/365UpArrowNotation/UpArrowNotation.md)
